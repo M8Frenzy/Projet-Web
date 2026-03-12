@@ -11,7 +11,7 @@
     <body>
         <table>
             <tr>
-                <td class="Menu"><a class="button-style" href="Index.html">Accueil</a></td>
+                <td class="Menu"><a class="button-style" href="index.html">Accueil</a></td>
                 <td class="Menu"><a class="button-style" href="Parcours.html">Parcours</a></td>
                 <td class="Menu"><a class="button-style" href="Compétences.html">A propos de moi</a></td>
                 <td class="Menu"><a class="button-style" href="Portfolio.html">Mon Portfolio</a></td>
