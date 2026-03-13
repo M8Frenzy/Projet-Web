@@ -35,9 +35,9 @@
                 <p>Mes réseaux</p>
             </div>
         </div>
-        <img src="../Médias/Contacts.png" class="PhotoContact" width="450px" height="230px">
+        <img src="Contacts.png" class="PhotoContact" width="450px" height="230px">
         <div class="container">
-            <img id="Linkedin" src="../Médias/Linkedin.png" alt="LinkedIn" onclick=Linkedin()>
+            <img id="Linkedin" src="Linkedin.png" alt="LinkedIn" onclick=Linkedin()>
         </div>
     </body>
 </html>
